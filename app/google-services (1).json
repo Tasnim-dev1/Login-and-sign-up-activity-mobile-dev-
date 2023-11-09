@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618255155981",
+    "project_id": "dev-mobile-c60b8",
+    "storage_bucket": "dev-mobile-c60b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618255155981:android:5948fa6980c02ecc882644",
+        "android_client_info": {
+          "package_name": "com.example.formation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUm22Cpihu5frjPuYJmq4WySvDiGMaICQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
